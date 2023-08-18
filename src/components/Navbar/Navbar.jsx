@@ -237,7 +237,7 @@ export default function Navbar() {
                       <MenuItem>Hair Accessories</MenuItem>
                       </RouterLink>
                       
-                    </SimpleGrid>
+                    </SimpleGrid >
 
                     <SimpleGrid spacing={2}>
                       <MenuItem>Scalp Lotion</MenuItem>
